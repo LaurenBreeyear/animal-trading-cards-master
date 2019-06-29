@@ -1,0 +1,22 @@
+.outline{
+  margin: 0.5em;
+  padding: 0.5em;
+  width: 300px;
+  height: auto;
+  border: 3px solid gold;
+  display: flex;
+  flex-wrap: wrap;
+}
+.little{
+  border: 0.5px solid gold;
+  padding: 0.5em;
+  margin-top: 0.7em;
+    width: 300px;
+    height: auto;
+}
+facts{
+  font-style: italic;
+}
+list{
+  list-style: none;
+}
